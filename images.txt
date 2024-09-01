@@ -4,3 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+knowstreaming/knowstreaming-manager:0.7.0
+knowstreaming/knowstreaming-ui:0.7.0
+docker.io/library/elasticsearch:7.6.2
+knowstreaming/knowstreaming-manager:0.7.0
+knowstreaming/knowstreaming-mysql:0.7.0
