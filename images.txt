@@ -9,3 +9,4 @@ knowstreaming/knowstreaming-ui:0.7.0
 docker.io/library/elasticsearch:7.6.2
 knowstreaming/knowstreaming-manager:0.7.0
 knowstreaming/knowstreaming-mysql:0.7.0
+openjdk:8
